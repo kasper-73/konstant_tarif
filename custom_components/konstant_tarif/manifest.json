@@ -1,0 +1,10 @@
+{
+  "domain": "konstant_tarif",
+  "name": "Konstant Tariffer",
+  "version": "1.0.0",
+  "documentation": "https://konstant.dk/priser-og-vilkaar/nettarif-abonnement-gebyr-og-tilslutningsbidrag",
+  "codeowners": ["@ditnavn"],
+  "requirements": ["beautifulsoup4"],
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}
